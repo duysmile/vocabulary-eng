@@ -1,0 +1,23 @@
+{
+  "name": "vocabulary-eng",
+  "version": "1.0.0",
+  "description": "This project to crawl data english vocabulary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duysmile/vocabulary-eng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duysmile/vocabulary-eng/issues"
+  },
+  "homepage": "https://github.com/duysmile/vocabulary-eng#readme",
+  "dependencies": {
+    "jsdom": "^16.2.2"
+  }
+}
