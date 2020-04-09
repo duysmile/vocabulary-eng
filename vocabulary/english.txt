@@ -1,0 +1,39 @@
+﻿ask someone for something -> đòi hỏi ai cái gì
+ask someone something -> hỏi ai cái gì
+get it -> understand
+shellfish -> con có vỏ như kiểu ngao / sò
+appearance -> sự hiện diện, bề ngoài
+look -> giống appearance, vẻ ngoài
+glance -> liếc nhìn
+at a glance -> ở cái nhìn đầu tiền / thoáng qua
+fucking -> very, Your code is fucking amazing!
+make sense -> hợp lí, That makes sense.
+do my best -> làm tốt nhất có thể
+figure out -> tìm ra (nguyên nhân), I'm trying to figure out what happened with my dog last night.
+the root problem/the root cause -> bản chất của vấn đề (gây ra lỗi gì đó), I'll try to figure out the root cause for this issue.
+under the hood -> dưới nắp ca bô. How React works under the hood -> có thể hiểu là sâu bên trong một thứ, cách nó vận hành
+newbie -> beginner
+left over -> phần còn dư lại (sau bữa ăn), we had dinner already and here the left over for you.
+close the deal -> chốt giao kèo. I'm closing the deal in the next meeting with the client.
+big deal -> kèo to, chuyện lớn.
+good deal -> kèo thơm.
+run away -> chạy mất
+stalking -> theo dõi (negative)
+pretty horrible -> khá kinh khủng
+pretty + adj -> khá là ...
+look sharp: trông bảnh
+underestimate: đánh giá thấp, I underestimated the task, as a result I have to work overtime today. Damn it.
+overestimate: đánh giá cao. I overestimate his skills.
+bother: làm phiền
+private: riêng tư
+take a nap -> ngủ 1 giấc ngắn. I'm taking a nap from now.
+come back -> trở lại
+more or less: ít nhiều. What you've said is more or less correct.
+come up in my mind -> chợt nhớ ra. It just come up in my mind that this problem has a better solution
+accurate: chuẩn xác/chính xác. The numbers in the report you made yesterday are accurate.
+around the corner -> sắp tới rồi. Tet holidays are around the corner.
+here you go -> của mày đây. Can I have some coffee? Here you go.
+move on -> continue (to the next)
+paradigm -> mô hình. a programming paradigm
+
+
