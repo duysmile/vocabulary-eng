@@ -21,11 +21,11 @@ function receiveMessage(request, sender, sendResponse) {
             <span style=" background-color: white; padding: 6px; border-radius: 8px; justify-content: center; display: flex">
                 ${words[0]} ${words[1]}
             </span>
-            <span style="display: flex; align-items: center; padding: 6px;">
+            <span style="display: flex; align-items: center; padding: 6px; word-break: break-all;">
                 ${words[2]}
             </span>
         </div>
-        <div style="font-size: 0.8rem; margin-top: 5px">
+        <div style="font-size: 0.8rem; margin-top: 5px; word-break: break-all;">
             ${words[4]}
         </div>
     </div>
@@ -36,6 +36,7 @@ function receiveMessage(request, sender, sendResponse) {
     div.style.right = '20px';
     div.style.width = '300px';
     div.style.height = '90px';
+    div.style.zIndex = '10000';
     div.onclick = (e) => {
         e.target.remove();
     }

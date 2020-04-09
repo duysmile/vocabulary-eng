@@ -1,6 +1,6 @@
 const randomNumber = parseInt(Math.random() * 46);
 const baseUrl = `https://api.github.com/repos/duysmile/vocabulary-eng/contents/vocabulary/v-${randomNumber}.json`
-const DURATION_POPUP = 1000 * 10;
+const DURATION_POPUP = 1000 * 30;
 
 fetch(baseUrl).then(res => {
     return res.json();
