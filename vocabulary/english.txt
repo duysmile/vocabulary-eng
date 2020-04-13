@@ -35,5 +35,119 @@ around the corner -> sắp tới rồi. Tet holidays are around the corner.
 here you go -> của mày đây. Can I have some coffee? Here you go.
 move on -> continue (to the next)
 paradigm -> mô hình. a programming paradigm
+stubborn -> bướng bỉnh, lì
+actually -> thực ra thì. Actually, I'm not a bad guy as you thought.
+
+---------------------------
+Vietnamese dishes in English: món ăn việt nam
+Spring roll -> chả giò (nem) rán
+summer roll -> gỏi cuốn (tôm thịt)
+vietnamese sandwich -> bánh mì
+vietnamese coffee (with condensed milk) -> cafe sữa
+pho -> phở
+beef pho -> phở bò
+chicken pho -> phở gà
+fish sauce -> nước mắm
+vietnamese crispy pancake -> bánh xèo
+steamed rice roll -> bánh cuốn
+sticky rice -> cơm nếp
+jasmine rice -> cơm tẻ
+rice paper -> bánh tráng
+fried fish -> cá rán
+
+------------------------------
+obvious -> rõ ràng, thấy tận mắt. Eg: I saw an obvious bug in your code. Did you test it before making your PR?
+PR -> pull request. Eg: Please make a PR and tag me there so that I can review it later.
+Sure -> chắc chắn. Eg: I think your UI looks great but I'm not sure if our client likes it or not, it's hard to tell.
+announce -> thông báo. Eg: Did you announce to our team that we will start working remotely from next week to avoid spreading the virus?
+
+
+------------------------------
+Cách đọc các kí tự trên bàn phím:
+hyphen -> -
+slash -> /
+colon -> :
+semicolon -> ;
+open parenthesis -> (
+close parenthesis -> )
+dollar sign -> $
+ampersand -> &
+at mark -> @
+caret -> ^
+asterisk -> *
+double quote -> "
+single quote -> '
+dot -> .
+comma -> ,
+question mark -> ?
+exclamation mark -> !
+square brackets -> []
+curly braces -> {}
+hash -> #
+percentage -> %
+back slash -> \
+tilde -> ~
+less than -> <
+greater than -> >
+backtick -> `
+
+-------------------------------
+morning standup -> họp team hàng sáng. Eg: Our morning standup starts from 8.15am, please be on time.
+glad -> vui (formal). Eg: I'm glad that he has found a new gf. Now he looks so happy. Can you see him even smiling at work?
+need some help -> cần giúp một tí. Eg: Call me when you need some help, I will come right after you.
+workflow -> quy trình làm việc. Eg: If you don't want to overload in work. You should plan for the workflow.
+had better + do something -> tốt hơn bạn nên làm gì đó nếu không muốn điều không hay sẽ đến (nghiêm trọng hơn should). Eg: You had better fix that bug if you don't want our users angry.
+brainstorm -> động não. Eg: Let's brainstorm together about our new features.
+keep in mind -> ghi nhớ. Eg: You should keep in mind what I'm saying to you.
+learn by heart -> học thuộc lòng. Eg: You shouldn't learn by heart everything if you want to become a Great Developer.
+day by day -> ngày qua ngày. Eg: Just pratice and improve your skill, you will become better day by day.
+step by step -> từng bước. Eg: Do it step by step like I told you. There's no shortcut.
+TBD -> to be done(in the future). Eg: When you don't have time to write some part of your documentation, just write TBD.
+
+---------------------------------
+racist -> kì thị/phân biệt chủng tộc. Eg: People may think you're racist if you tell you don't like black people.
+in advance -> làm gì đó trước hạn. Eg: The apartment owner asked us to pay the rent 10 days in advance.
+at all cost -> bằng mọi giá, you use this idiom to talk about someone who does everthing you can to achieve/succeed. Eg: My dream is to become a successful businessman and I will work hard for it at all cost.
+be out of your depth -> trong tình thế khó xử/khó khăn, you use this idiom when you want to say that you are in a difficult situation. Eg: I'm used to teach General english but I was out of my depth when I had to teach Academic English.
+explore all avenues -> suy tính đến các hướng/bước để tránh xảy ra vấn đề/hậu quả xấu, you use this idiom when you want to say you are keen in a particular action to avoid trouble in the end. Eg: We need to explore all avenues before doing somehting that is not very safe to a greate number of people in order to minimize unfavorable consequences.
+investigate -> tìm hiểu nguyên nhân. Eg: He is investigating why his gf cheated him.
+blow my mind -> gây ấn tượng mạnh(có thể positive or negative). Eg: Her bikini show last night has blown my mind.
+gotcha -> got it
+renovation -> tân trang. Eg: I pay for a office renovation.
+kindof (kinda) -> đại loại. Eg: A: Do you like the new CLI tool he made? B: Mehhh, it's kinda buggy.
+
+---------------------------------
+holy shit! -> ăn hành rồi. Eg: Production down! Holy shit!
+like a charm -> như một phép màu. Eg: The script he made works like a charm.
+nightmare -> ác mộng. Eg: Server was down last night when we all sleeping, it's a nightmare.
+too much of a good thing -> cái gì nhiều quá cũng bội thực
+step on -> dẫm lên. Eg: Sorry for stepping on your feet.
+bump into -> bất ngờ gặp ai dọc đường. Eg: He bumped into his ex-gf while dating with his new gf yesterday, that's so awkward!
+awkward -> tình thế thốn tận rốn. Eg: I said goodbye to everyone before leaving the office yesterday but no one said anything back, it seems they were busy but that's a bit awkward to me.
+push -> đẩy, thúc đít. Eg: Long keeps pushing everyone under him to work like animals. That's why people hate him so much.
+plan B -> phương án lui. Eg: His plan B for tonight if it rains is to stay at home and make a meal.
+bring it up -> đưa vấn đề ra với mọi người. Eg: Your idea is great. Let's bring it up with the team during our standup tomorrow.
+dig into -> đào sâu. Eg: Don't dig into other people's mistakes.
+constructive feedback -> feedback mang tính xây dựng. Eg: When in a meeting, let's not blame each other or complaining too much. Let's think more about the solutions and giving more constructive feedbacks instead.
+in fire -> trong tình thế khẩn cấp (urgent). Eg: We're in fire, let's stay calmed and do whatever we can.
+break up -> chia tay. Eg: He broke up with his gf just because he saw his gf hanging out with another guy.
+team building -> các hoạt động kết nối mọi người trong team. Eg: We have team building trips/parties every 2 months.
+work environment -> môi trường làm việc. Eg: Having a good work environment will help boost team performance.
+water -> tưới nước. Eg: We need to water the plants every two days to keep them healthy.
+snacks -> đồ ăn vặt. Eg: Let's go to grab some snacks from the convenience store downstairs.
+get rid of -> từ bỏ(một thói quen, công việc đang làm). Eg: I'm trying to get rid of using monday.com because it's freaking expensive.
+deal with -> đối mặt/xử lí/đối phó với. Eg: He had to deal with thousands of bugs created intentionally by Minh last week.
+handle -> đảm nhận/xoay xở/xử lí. Eg: A. Stg site is down. Can someone take a look? B: Let me handle it.
+non-tech -> chỉ người không thạo với đồ điện tử. Eg: Our users are non-tech people, please keep the UI simple, don't make them think how to use.
+tech-savvy: thạo về tech. Eg: He is definitely not a tech-savvy guy. It took him hours to turn on the PC. Goddam!
+jet lag -> mệt mỏi, mất ngủ vì lệch múi giờ. Eg: I came back from London last night and now I'm having jet jack.
+such a + Adj + N -> nhấn mạnh tính từ đứng trước danh từ. Eg: He is such a smart guy. He can do anything other people can. I can't believe it! His friend made such a stupid bug that driving me crazy. That's such a waste of time!
+wonder -> tự hỏi. Eg: I wonder why he broke up with his cute gf. I wonder how he could pass the exam.
+broke -> hết tiền(kiểu không còn xu dính túi). Eg: I spent a lot of money this month for brand stuff. Now I'm broke.
+you don't know me well -> mày không hiểu về tao đâu. Eg: I can do more than you think you know. You don't know me well so don't judge me.
+intention -> chủ ý. Eg: My apologies for pouring coffee on your table, it's my mistake, not my intention.
+I don't know if ... -> tôi không biết liệu ... Eg: I don't know if he really loved his ex-gf or he just wanted to play around.
+play around -> chơi bời (không nghiêm túc). Eg: He hates cute girls because he thinks they are not serious and they just want to play around with him.
+take a deep breath -> hít một hơi thật sâu. Eg: Take a deep breath before you dive. When you feel stressful, take a deep breath and you will feel more stressful.
 
 
