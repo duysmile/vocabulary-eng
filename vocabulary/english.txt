@@ -150,4 +150,66 @@ I don't know if ... -> tôi không biết liệu ... Eg: I don't know if he real
 play around -> chơi bời (không nghiêm túc). Eg: He hates cute girls because he thinks they are not serious and they just want to play around with him.
 take a deep breath -> hít một hơi thật sâu. Eg: Take a deep breath before you dive. When you feel stressful, take a deep breath and you will feel more stressful.
 
+-----------------UI design----------------
+UI -> user interface(giao diện người dùng)
+GUI -> graphical user interface(giao diện đồ họa người dùng)
+pixel -> điểm ảnh
+width -> chiều rộng
+height -> chiều cao
+canvas -> khung hình
+vertical -> chiều dọc
+horizontal -> chiều ngang
+layout -> bố cục, dàn trang
+layer -> lớp
+shadow -> bóng(tối), đổ bóng
+position -> vị trí
+origin -> tâm
+coordinate -> trục tọa độ
+RGB -> hệ màu red, green, blue
+color picker -> công cụ chọn màu
+gradient -> hiệu ứng chuyển màu theo dải
+hide -> ẩn
+show -> hiện
+opacity -> độ trong suốt
+hue -> sắc
+saturation -> độ tươi
+lightness/brightness: độ sáng
+HSL -> hệ màu gồm hue, saturation, lightness
+interaction -> tương tác
+2d -> two dimensional(2 chiều)
+3d -> three dimensional(3 chiều)
+bitmap -> ảnh tạo bởi các pixel, mỗi pixel một màu
+vector -> ảnh tạo bởi các shapes, có thể phóng to tùy ý
+SVG -> scalable vector graphic
+shape -> hình khối
+rectangle -> hình chữ nhật
+square -> hình vuông
+circle -> hình tròn
+disc -> tròn(đặc)
+triangle -> tam giác
+rasterize -> chuyển từ vector sang bitmap
+grayscale -> dải màu xám
+blur -> mờ
+sharp -> sắc nét
+distorted -> méo
+transform -> biến đổi
+scale up/down -> phóng to/thu nhỏ
+zoom in/out -> zoom vào, ra
+draw -> vẽ
+path -> đường/nét vẽ
+curve -> đường cong
+point -> điểm
+edge -> cạnh
+color palette -> bảng màu
+background -> nền
+pattern -> mẫu
+texture -> kết cấu, sự dệt
+
+---------------------------------
+tremendous -> to lớn, phi thường. Eg: You also have to learn a tremendous amount about being a parent.
+outfit -> trang phục. Eg: This is an actual outfit.
+actual -> thực tế.
+entrepreneurs -> doanh nhân. Eg: They are entrepreneurs.
+infant -> trẻ sơ sinh. Eg: We have an infant
+sleep deprivation -> chứng mất ngủ, thiếu ngủ.
 
