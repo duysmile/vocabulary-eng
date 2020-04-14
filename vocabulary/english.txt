@@ -212,4 +212,34 @@ actual -> thực tế.
 entrepreneurs -> doanh nhân. Eg: They are entrepreneurs.
 infant -> trẻ sơ sinh. Eg: We have an infant
 sleep deprivation -> chứng mất ngủ, thiếu ngủ.
-
+curious -> tò mò
+fiddling -> nghịch ngợm. Eg: fiddling around and learning through trial and error.
+geek -> đam mê
+learning junkie -> nghiện học tập
+portrait -> chân dung
+acquire -> thu được, học được
+stuff -> đồ đạc(this stuff: những thứ này)
+mental -> thuộc về tâm trí, trí óc. Eg: mental experience
+magnitude -> cường độ. Eg: a rough order of magnitude: cường độ lớn
+wrinkle -> chỉ dẫn
+originator -> người tạo ra
+athletes -> vận động viên
+ultra competitive folks -> những người cực kì cạnh tranh
+deliberate practice -> thực hành có chủ đích
+cognitive -> nhận thức
+quanify -> xác định
+grossly incompetent -> không đủ năng lực
+astounded -> kinh ngạc
+accumulate -> tích trữ
+massive improvement -> tiến bộ lớn
+deconstruct -> giải mã
+procrastinate -> hoãn lại
+distractions -> phiền nhiễu
+frustration -> chống đối
+reap the rewards -> gặt hái thành quả
+neat instrument -> dụng cụ đơn giản gọn gàng
+you are accompanying yourself -> bạn đang đồng hành cùng chính mình
+intimidating -> đáng sợ
+medley -> lộn xộn
+intellectual -> trí tuệ
+emotional -> cảm xúc
