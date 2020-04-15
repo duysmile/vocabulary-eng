@@ -243,3 +243,24 @@ intimidating -> đáng sợ
 medley -> lộn xộn
 intellectual -> trí tuệ
 emotional -> cảm xúc
+
+----------learning dialog flow-------------
+engaging -> hấp dẫn
+leverage -> tận dụng
+provision -> cung cấp
+descriptive comprehensive -> mô tả toàn diện
+insights -> cái nhìn sâu sắc
+conversely -> ngược lại
+put brands at serious risk -> làm cho thương hiệu gặp rủi ro nghiêm trọng
+incorporated -> kết hợp
+sophisticated -> tinh vi
+dialects -> ngôn ngữ vùng
+plethora -> tình trạng quá nhiều
+irrelevant -> không liên quan
+aspect -> khía cạnh
+ambiguous -> mơ hồ, không rõ ràng
+sufficent -> hiệu quả
+bacon -> thịt ba rọi
+composite -> hỗn hợp
+flavor -> hương vị
+diversification -> đa dạng hóa
