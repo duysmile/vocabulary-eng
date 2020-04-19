@@ -264,3 +264,48 @@ bacon -> thịt ba rọi
 composite -> hỗn hợp
 flavor -> hương vị
 diversification -> đa dạng hóa
+associate -> liên kết
+
+--------------------------------
+left -> còn lại. Eg: When I came home last night, there's nothing left on the table.
+remain -> còn lại.Eg: I have 30 remaining points need to finish this course.
+stay the same -> không đổi. Eg: He has left our team but our love for him stays the same even though he left behind so many bugs.
+left behind -> để lại đằng sau. Eg: He left behind so many debug code and FIXMEs on his past projects.
+in trouble -> rơi vào tình huống khó. Eg: We're in trouble, it's his bug again! It must be hard to fix.
+very first -> nhấn mạnh của first. Eg: He is one of our very first community members but he didn't contribute much.
+very last -> nhấn mạnh của last. Eg: He is always the very last guy coming to the office every morning. He must be working hard every night for his side projects.
+rarely -> hiếm khi. Eg: He rarely mentioned aboute his cute gf and sister with our male members.
+hard time -> thời gian khó khăn. Eg: He has a hard time fixing a bug made by Minh. It took him hours and he kept screaming "Aaaaa" while investigating the bug.
+anything else -> còn gì nữa không. Eg: A: Can you give me that pen and the stamp under the paper? B: Here you go. Anything else?
+
+--------- Git -------------------
+make a branch -> tạo một nhánh. Eg: Can you make a new feature branch from master?
+WIP: work in progress -> đang làm dở. Eg: If you haven't done your task yet but still want to show your code in order to get feedback from team, you should add a WIP prefix to your PR title.
+PR: pull request -> một request để được review code và merge. Eg: Can you maken a PR to master for your branch?
+resolve conflicts -> giải quyết các conflict khi merge code. Eg: It looks like we both changed some code in this file, let's resolve the conflicts together. For this part, should we keep the upcoming or the current one?
+PR template -> mẫu điền sẵn khi tạo PR. Eg: It seems like people keep forgetting to add a screenshot to their PRs, let's make a PR template with a checklist including "Add a screenshot".
+README file -> file mô tả tổng quan về repo. Eg: You should put yourself in people's shoes when it comes to writing documentation, especially the README file. Keep it short, simple and easy to understand.
+
+---------------------------------
+Administration -> deals with organization and internal and external communication
+Production -> ensures all manufacturing stages run smoothy.
+Research and Development(R&D) -> deals with researching and developing future products for a company.
+Purchasing -> deals with buyings goods and raw materials
+Human Resources(HR) -> deals wiht employee relations and matters such as hiring staff
+Sales -> deals wiht selling a finished product to outside markets
+Account/Finance -> deals with money matters, form paying bills to projecting sales.
+Facilities / Office Services -> ensures the smooth day-to-day running of the practical aspects of a company.
+Marketing -> deals wiht promoting products.
+Legal -> ensures that all contracts and company activities are legal.
+Public relations(PR) -> deals with maintaining a positive public image for company.
+Infomation Technology(IT) -> ensures that all technological systems are working and maintained.
+
+
+-------------------------------
+
+estimate -> ước lượng công việc. Eg: Let's estimate our tasks to know roughly when we can finish them all. Don't let he join our estimation meeting because he always underestimates.
+rough -> thô/sơ sơ/ang áng. Eg: Can you give me some rough idea how long it's gonna take to develop?
+balance -> sự cân bằng. Eg: It's a balance between speed and quality. Take Duy as an example, he always finishes his work quickly but there are a lot of bugs in his code.
+trade-off -> sự đánh đổi. Eg: If you join in a large corporate, you will get paid well but you may not be able to learn as much as working in a startup. It's a trade-off.
+post-mortem -> document ghi lại toàn bộ quá trình sau khi có sự cố. Eg: Thanks for fixing the issue, please don't forget to write a post-mortem.
+farewell party -> tiệc chia tay. Eg: This weekend is his last day with us. We have a farewell party at a bar on Tran Duy Hung Street.
